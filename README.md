@@ -5,6 +5,7 @@ To run this app please clone the repo
 Make sure you have X-code installed then run the folowing commands: 
 
 npm install
+
 react-native run-ios
 
 The database is here: http://rallycoding.herokuapp.com/api/music_albums
